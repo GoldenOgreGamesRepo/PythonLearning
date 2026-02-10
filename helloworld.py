@@ -1,3 +1,11 @@
 # Code to test github
 
-print("Hello, world!")
+temp = 71
+
+if temp > 90:
+    print("Too hot!")
+elif temp < 60:
+    print("Too cold!")
+else:
+    print("Decent")
+
